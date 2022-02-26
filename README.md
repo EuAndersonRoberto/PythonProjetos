@@ -1,2 +1,2 @@
-# capa para o Teste anterior
+# Local de conhecimento Python! 
 
